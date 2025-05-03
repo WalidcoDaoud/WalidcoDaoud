@@ -29,7 +29,7 @@
 
 <details>
 <summary><h2>📊 Stats and Activity</h2></summary>
-[![GitHub Streak](https://streak-stats.demolab.com?user=WalidcoDaoud&theme=algolia&short_numbers=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WalidcoDaoud&theme=algolia&short_numbers=true" alt="GitHub Streak" /></a>
 </details>
 
 <!--

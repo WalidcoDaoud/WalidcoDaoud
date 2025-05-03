@@ -29,11 +29,12 @@
 <details open>
     <summary><h2>📊 Stats and Activity</h2></summary>
     
-    <h3>🔥 Streak Stats</h3>
-    <p>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WalidcoDaoud&theme=algolia&short_numbers=true" alt="GitHub Streak" /></a>
-    </p>
-    <hr />
+<h3>🔥 Streak Stats</h3>
+    
+<p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WalidcoDaoud&theme=algolia&short_numbers=true" alt="GitHub Streak" /></a>
+</p>
+<hr />
 </details>
 
 <!--

@@ -1,11 +1,10 @@
 # Walid Daoud
 
 **`Frontend Developer`**
-**``**
 
 <!-- Colocar texto aqui de introdução -->
 <details>
-<summary><h2>### 💻 Languages and Tools</h2></summary>
+<summary><h2>💻 Languages and Tools</h2></summary>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="RxJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
@@ -25,8 +24,9 @@
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <br />
 <br />
+<hr />
 </details>
-#
+
 
 ### 📊 Stats
 

@@ -1,6 +1,6 @@
 # Walid Daoud
 
-**`Frontend Developer`**
+**`Frontend Developer | aiming for FullStack`**
 
 <!-- Colocar texto aqui de introdução -->
 <details open>

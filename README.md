@@ -27,10 +27,11 @@
 <hr />
 </details>
 
+<details>
+<summary><h2>📊 Stats and Activity</h2></summary>
+[![GitHub Streak](https://streak-stats.demolab.com?user=WalidcoDaoud&theme=algolia&short_numbers=true)](https://git.io/streak-stats)
+</details>
 
-### 📊 Stats
-
-![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidcodaoud&show_icons=true&theme=holi)
 <!--
 **WalidcoDaoud/WalidcoDaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

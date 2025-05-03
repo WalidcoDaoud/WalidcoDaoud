@@ -22,8 +22,13 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<br />
 
+#
 
+### 📊 Stats
+
+![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidcodaoud&show_icons=true&theme=holi)
 <!--
 **WalidcoDaoud/WalidcoDaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

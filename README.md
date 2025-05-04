@@ -4,8 +4,9 @@
 
 <!-- Colocar texto aqui de introdução -->
 <details open>
-<summary><h2>💻 Languages and Tools</h2></summary>
-<details>
+<summary><h2>💻 Programming Languages and Tools</h2></summary>
+
+<details open>
 <summary><h3>Frontend</h3></summary>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -19,7 +20,7 @@
 </details>
 
 <details>
-<summary><h3>Backend</h3></summary>
+<summary open><h3>Backend</h3></summary>
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt=".Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <br />

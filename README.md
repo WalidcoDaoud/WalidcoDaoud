@@ -20,6 +20,7 @@
 <br />
 <br />
 <hr />
+</details>
 
 <details open>
 <summary><h3>Tools and Libraries</h3></summary>
@@ -43,7 +44,7 @@
 <h3>🔥 Streak Stats</h3>
     
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WalidcoDaoud&theme=algolia&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=algolia&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 <hr />
 </details>
